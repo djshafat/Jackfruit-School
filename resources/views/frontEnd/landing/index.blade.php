@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
  <title> Jackfruit School ERP </title>
-<meta name="description" content="Infix is 100+ unique feature enable school management software system. It can manage all type of school, academy and any educational institution. ">
+<meta name="description" content="Jackfruit School is 100+ unique feature enable school management software system. It can manage all type of school, academy and any educational institution. ">
 <meta name="keywords" content="School Management Software, School Management System, School ERP software, school ERP system, Academy management software">
 <meta name="ahrefs-site-verification" content="578d1aa1e01051e3ac46df77d602eb6846f676a092e33c9befa5ce2395403bd2">
 <meta name="google-site-verification" content="oXBw6wz6Ie5UTDB4h1JRUXHDZE2n-uGO2lm1HVYcA-c" />
@@ -30,19 +30,19 @@
 [ {
   "@context" : "http://schema.org",
   "@type" : "SoftwareApplication",
-  "name" : "INFIX - Best School Management software system",
-  "url" : "http://infixedu.com/",
+  "name" : "Jackfruit School - Best School Management software system",
+  "url" : "http://itjackfruit.com/",
   "author" : {
     "@type" : "Company",
-    "name" : "Spondon IT"
+    "name" : "IT Jackfruit"
   },
   "datePublished" : "2019-05-28",
   "publisher" : {
     "@type" : "School Management ERP software",
-    "name" : "Infix"
+    "name" : "Jackfruit School"
   },
   "applicationCategory" : "ERP Software",
-  "downloadUrl" : "http://infixedu.com",
+  "downloadUrl" : "http://itjackfruit.com",
   "operatingSystem" : "2019",
   "requirements" : "in a complete",
   "screenshot" : "http://infixedu.com/public/landing/img/dashboard_preview.png",
